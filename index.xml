@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>#startuppando</title>
+    <link>/index.xml</link>
+    <description>Recent content on #startuppando</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-IT</language>
+    <lastBuildDate>Sat, 01 Apr 2017 14:19:25 +0100</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sat, 01 Apr 2017 14:19:25 +0100</pubDate>
+      
+      <guid>/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
+
+&lt;p&gt;Startuppando ri-nasce nel 2017: è un&amp;rsquo;idea che volevo sviluppare molto tempo fa ma che per diversi motivi ho rimandato. L&amp;rsquo;intento è di poter scambiare esperienze e opinioni con chi sta cercando di creare e &lt;em&gt;far crescere&lt;/em&gt; &lt;a href=&#34;http://startup.registroimprese.it/&#34;&gt;startup innovative&lt;/a&gt; in Italia.&lt;/p&gt;
+
+&lt;h2 id=&#34;perché-una-nuova-comunità&#34;&gt;Perché una nuova comunità?&lt;/h2&gt;
+
+&lt;p&gt;Perché quelle che ho visto e conosciuto in italia non sono - a mio avviso - attive e c&amp;rsquo;è la paura di condividere l&amp;rsquo;esperienza, soprattutto quando va male. Sto avendo un&amp;rsquo;esperienza bellissima con la Startup School di Y-combinator e vorrei provare a prendere le parti migliori e testarle in Italia.&lt;/p&gt;
+
+&lt;p&gt;Mi pare ci sia un bisogno di condivisione, di confronto tra chi è così fuori di testa da pensare di fare startup in Italia e provo a dare un contributo.&lt;/p&gt;
+
+&lt;p&gt;Da parte mia cerco di condividere le cose importanti da ricordare quando si decide di creare e far crescere un&amp;rsquo;azienda. I pensieri derivano da &lt;a href=&#34;https://www.startupschool.org&#34;&gt;Y-combinator Startup School&lt;/a&gt;, dall&amp;rsquo;esperienza con &lt;a href=&#34;https://www.unicreditstartlab.eu&#34;&gt;Unicredit Startup Lab&lt;/a&gt;, da &lt;a href=&#34;http://if.areasciencepark.it/&#34;&gt;Innovation Factory&lt;/a&gt;, dagli anni spesi &amp;ldquo;sul campo&amp;rdquo; ma soprattutto dall&amp;rsquo;esperienza che persone molto più in gamba di me mi hanno trasmesso.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;hertzdog&lt;/code&gt; è il nome d&amp;rsquo;arte che ho scelto quando facevo musica elettronica e poi ho mantenuto nei miei &amp;ldquo;side projects&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Startuppando è un side project: il mio &amp;ldquo;lavoro vero&amp;rdquo; è collaborare con &lt;a href=&#34;http://www.glifecompany.com&#34;&gt;g&amp;amp;life&lt;/a&gt; (una ex-startup che ha fatto round di investimento in Italia e che ha iniziato il suo percorso nel 2008).&lt;/p&gt;
+
+&lt;p&gt;Startuppando &amp;ldquo;gira&amp;rdquo; su &lt;a href=&#34;http://hugo.io&#34;&gt;Hugo&lt;/a&gt;, una delle piattaforme più veloci al mondo per pubblicare contenuti statici, mentre la comunità gira su &lt;a href=&#34;https://about.mattermost.com/&#34;&gt;mattermost&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;side-projects&#34;&gt;Side projects&lt;/h2&gt;
+
+&lt;p&gt;Sono una persona curiosa che si mette in discussione. I miei side projects sono:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Intelligenza artificiale: dopo averla studiata all&amp;rsquo;Università tanti anni fa, ripresa nel 2016 con il corso di Andrew NG (&lt;a href=&#34;https://www.coursera.org/learn/machine-learning&#34;&gt;Stanford - Coursera&lt;/a&gt;), fatto un po&amp;rsquo; di pratica su guida autonoma di veicoli (&lt;a href=&#34;https://www.udacity.com/drive&#34;&gt;Udacity - NanoDegree&lt;/a&gt;), ora sto usando Tensorflow, Keras, SVM, DarkFlow applicando le tecniche alla genetica e ai video di windsurf (ho anche un blog &lt;a href=&#34;http://noruen.com&#34;&gt;noruen&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Windsurf: adoro il vento e il mare. Mi piacciono anche i video e ho contribuito a creare la piattaforma per i video di sport &lt;a href=&#34;http://app.mondayreplay.com/movies/588ef32590000004ada543cf&#34;&gt;MondayReplay&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Probiotici e benessere: sto studiando un progetto per i probiotici in ambito orale &lt;a href=&#34;http://parobio.com&#34;&gt;ParoBio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Sport e benessere: visto che sono spesso in giro, con un amico esperto di attività fisica, abbiamo ideato un servizio per fornire video-programmi di personal training da poter usare nelle camere degli alberghi e trasformare il tempo in movimento &lt;a href=&#34;http://room-fitness.com&#34;&gt;RoomFitness&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Il CV &amp;ldquo;ufficiale&amp;rdquo; dice che sono un ingegnere (del PoliMi), un ricercatore (ho un PhD in Bioingegneria e ho contribuito a una ventina di articoli scientifici), un inventore (ho contribuito a 4 brevetti), un ex-musicista (sia strumenti classici come la viola che &amp;ldquo;il computer&amp;rdquo;), un ex-insegnante di scuola guida.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Retention: il valore degli utenti</title>
+      <link>/post/retention/</link>
+      <pubDate>Thu, 13 Apr 2017 19:22:40 +0100</pubDate>
+      
+      <guid>/post/retention/</guid>
+      <description>
+
+&lt;h1 id=&#34;retention&#34;&gt;Retention&lt;/h1&gt;
+
+&lt;p&gt;La &lt;a href=&#34;https://en.wikipedia.org/wiki/Customer_retention&#34;&gt;retention&lt;/a&gt; è la capacità di una startup di fare in modo che il cliente continui a usare il prodotto/servizio in un arco di tempo.&lt;/p&gt;
+
+&lt;p&gt;La retention è spesso combinata agli acquisti dell&amp;rsquo;utente nel tempo in modo da determinare il &lt;a href=&#34;https://it.wikipedia.org/wiki/Lifetime_value&#34;&gt;life time value&lt;/a&gt; dell&amp;rsquo;utente.&lt;/p&gt;
+
+&lt;p&gt;L&amp;rsquo;opposto della retention è il &lt;a href=&#34;https://en.wikipedia.org/wiki/Churn_rate&#34;&gt;churn rate&lt;/a&gt; ovvero la quantità di utenti che invece abbandonano i nostri servizi/prodotti in un arco di tempo.&lt;/p&gt;
+
+&lt;h2 id=&#34;il-cerchio-di-fuoco&#34;&gt;Il cerchio di fuoco&lt;/h2&gt;
+
+&lt;p&gt;Non tener conto della retention, non misurarla, ma limitarsi a misurare il numero di prodotti venduti e/o il fatturato rischia di essere come un fuoco in un campo di erba: è un cerchio che si espande finché ci sono nuovi utenti (erba) e poi non resta che un campo bruciato. Ho creato una piccola gif con un campo d&amp;rsquo;erba (verde), un cerchio di fuoco (arancione) che si espande lasciando dietro di se erba bruciata (il cerchio nero) che si espande fino a coprire tutto.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://media.giphy.com/media/DSoHjO7AviMYo/giphy.gif&#34; alt=&#34;Cerchio di fuoco&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Quando abbiamo &amp;ldquo;bruciato&amp;rdquo; tutti i nuovi utenti, abbiamo esaurito il mercato e non c&amp;rsquo;è più valore.&lt;/p&gt;
+
+&lt;p&gt;Indipendentemente da quanto siamo bravi ad abbassare il costo di acquisizione del cliente, a migliorare il funnel di vendita, saremo sempre &amp;ldquo;drogati&amp;rdquo;: condannati a cercare sempre nuovi utenti.&lt;/p&gt;
+
+&lt;p&gt;Una retention del 100% per tutta la vita è praticamente impossibile. Tipicamente la migliore retention è legata alle startup che si occupano di reti di comunicazione, dove abbiamo sempre più valore, più sono gli utenti collegati (whatsapp, facebook, &amp;hellip;) mentre alcuni esempi non positivi sono GroupON (partito benissimo ma l&amp;rsquo;esperienza per il commerciante non era positiva a lungo termine), PokemonGO (super hype all&amp;rsquo;inizio e poi nulla)&lt;/p&gt;
+
+&lt;h2 id=&#34;perché-la-retention-è-strategicamente-importante&#34;&gt;Perché la Retention è strategicamente importante&lt;/h2&gt;
+
+&lt;p&gt;Senza misurare la retention si rischia di fare la fine del tacchino. Chi ha letto il &lt;a href=&#34;https://it.wikipedia.org/wiki/Il_cigno_nero_(saggio)&#34;&gt;Cigno Nero&lt;/a&gt; di Nicolas Taleb avrà già visto questo grafico:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/tacchino.png&#34; alt=&#34;Grafico del tacchino&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Misurando ad esempio il fatturato, con una retention molto bassa o nulla, si cade nel cerchio di fuoco mostrato prima: il punto più pericoloso è quello di massima fiducia, quando il diametro del cerchio è molto grande e siamo vicini ad aver finito l&amp;rsquo;erba fresca (i nuovi utenti).&lt;/p&gt;
+
+&lt;p&gt;Tuttavia guardando il fatturato passato e l&amp;rsquo;evolvere dello stesso, il punto massimo, è il momento in cui siamo più sicuri che tutto funzioni. All&amp;rsquo;inizio, con i primi clienti, avremmo molta paura che qualcosa non funzioni, ma dopo mesi/anni che il fatturato aumenta, è chiaro che siamo sulla strada giusta&amp;hellip; &lt;em&gt;SBAGLIATO!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Se non abbiamo tenuto conto della retention rischiamo di essere come il tacchino: nel momento di massima fiducia tutto finisce. Perché? Perché abbiamo finito i nuovi clienti disponibili.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
