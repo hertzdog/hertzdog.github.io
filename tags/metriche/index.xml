@@ -9,32 +9,32 @@
     <atom:link href="/tags/metriche/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Retention: il valore degli utenti</title>
+      <title>Retention: fidelizzare</title>
       <link>/post/retention/</link>
       <pubDate>Thu, 13 Apr 2017 19:22:40 +0100</pubDate>
       
       <guid>/post/retention/</guid>
       <description>
 
-&lt;h1 id=&#34;retention&#34;&gt;Retention&lt;/h1&gt;
+&lt;h1 id=&#34;retention-fidelizzare&#34;&gt;Retention - Fidelizzare&lt;/h1&gt;
 
-&lt;p&gt;La &lt;a href=&#34;https://en.wikipedia.org/wiki/Customer_retention&#34;&gt;retention&lt;/a&gt; è la capacità di una startup di fare in modo che il cliente continui a usare il prodotto/servizio in un arco di tempo.&lt;/p&gt;
+&lt;p&gt;La &lt;a href=&#34;https://en.wikipedia.org/wiki/Customer_retention&#34;&gt;retention&lt;/a&gt; è la capacità di una startup di mantenere un cliente attivo per un periodo di tempo (con lo scopo che il tempo di retention sia il più lungo possibile).&lt;/p&gt;
 
-&lt;p&gt;La retention è spesso combinata agli acquisti dell&amp;rsquo;utente nel tempo in modo da determinare il &lt;a href=&#34;https://it.wikipedia.org/wiki/Lifetime_value&#34;&gt;life time value&lt;/a&gt; dell&amp;rsquo;utente.&lt;/p&gt;
+&lt;p&gt;La retention è importante perché combinata con gli acquisti dell&amp;rsquo;utente consente di determinare il &lt;a href=&#34;https://it.wikipedia.org/wiki/Lifetime_value&#34;&gt;life time value&lt;/a&gt; dell&amp;rsquo;utente.&lt;/p&gt;
 
 &lt;p&gt;L&amp;rsquo;opposto della retention è il &lt;a href=&#34;https://en.wikipedia.org/wiki/Churn_rate&#34;&gt;churn rate&lt;/a&gt; ovvero la quantità di utenti che invece abbandonano i nostri servizi/prodotti in un arco di tempo.&lt;/p&gt;
 
 &lt;h2 id=&#34;il-cerchio-di-fuoco&#34;&gt;Il cerchio di fuoco&lt;/h2&gt;
 
-&lt;p&gt;Non tener conto della retention, non misurarla, ma limitarsi a misurare il numero di prodotti venduti e/o il fatturato rischia di essere come un fuoco in un campo di erba: è un cerchio che si espande finché ci sono nuovi utenti (erba) e poi non resta che un campo bruciato. Ho creato una piccola gif con un campo d&amp;rsquo;erba (verde), un cerchio di fuoco (arancione) che si espande lasciando dietro di se erba bruciata (il cerchio nero) che si espande fino a coprire tutto.&lt;/p&gt;
+&lt;p&gt;Non tener conto della retention, non misurarla, ma limitarsi a misurare il numero di prodotti venduti e/o il fatturato può essere fuorviante, rischia di essere come un fuoco in un campo di erba: è un cerchio che si espande finché ci sono nuovi utenti (erba) e poi non resta che un campo bruciato. Ho creato una piccola gif con un campo d&amp;rsquo;erba (verde), un cerchio di fuoco (arancione) che si espande lasciando dietro di se erba bruciata (il cerchio nero) che si espande fino a coprire tutto.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://media.giphy.com/media/DSoHjO7AviMYo/giphy.gif&#34; alt=&#34;Cerchio di fuoco&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Quando abbiamo &amp;ldquo;bruciato&amp;rdquo; tutti i nuovi utenti, abbiamo esaurito il mercato e non c&amp;rsquo;è più valore.&lt;/p&gt;
 
-&lt;p&gt;Indipendentemente da quanto siamo bravi ad abbassare il costo di acquisizione del cliente, a migliorare il funnel di vendita, saremo sempre &amp;ldquo;drogati&amp;rdquo;: condannati a cercare sempre nuovi utenti.&lt;/p&gt;
+&lt;p&gt;Indipendentemente da quanto siamo bravi ad abbassare il costo di acquisizione del cliente, a migliorare il &lt;a href=&#34;https://en.wikipedia.org/wiki/Funnel&#34;&gt;funnel&lt;/a&gt; di vendita, saremo sempre &amp;ldquo;drogati&amp;rdquo;: condannati a cercare sempre nuovi utenti.&lt;/p&gt;
 
-&lt;p&gt;Una retention del 100% per tutta la vita è praticamente impossibile. Tipicamente la migliore retention è legata alle startup che si occupano di reti di comunicazione, dove abbiamo sempre più valore, più sono gli utenti collegati (whatsapp, facebook, &amp;hellip;) mentre alcuni esempi non positivi sono GroupON (partito benissimo ma l&amp;rsquo;esperienza per il commerciante non era positiva a lungo termine), PokemonGO (super hype all&amp;rsquo;inizio e poi nulla)&lt;/p&gt;
+&lt;p&gt;Una retention del 100% per tutta la vita è praticamente impossibile. Tipicamente la migliore retention è legata alle startup che si occupano di reti di comunicazione, dove abbiamo tanto più valore quanto più sono gli utenti collegati (whatsapp, facebook, &amp;hellip;); mentre alcuni esempi non positivi sono GroupON (partito benissimo ma l&amp;rsquo;esperienza per il commerciante evidentemente non era positiva a lungo termine) o PokemonGO (super hype all&amp;rsquo;inizio e poi nulla).&lt;/p&gt;
 
 &lt;h2 id=&#34;perché-la-retention-è-strategicamente-importante&#34;&gt;Perché la Retention è strategicamente importante&lt;/h2&gt;
 
@@ -44,7 +44,7 @@
 
 &lt;p&gt;Misurando ad esempio il fatturato, con una retention molto bassa o nulla, si cade nel cerchio di fuoco mostrato prima: il punto più pericoloso è quello di massima fiducia, quando il diametro del cerchio è molto grande e siamo vicini ad aver finito l&amp;rsquo;erba fresca (i nuovi utenti).&lt;/p&gt;
 
-&lt;p&gt;Tuttavia guardando il fatturato passato e l&amp;rsquo;evolvere dello stesso, il punto massimo, è il momento in cui siamo più sicuri che tutto funzioni. All&amp;rsquo;inizio, con i primi clienti, avremmo molta paura che qualcosa non funzioni, ma dopo mesi/anni che il fatturato aumenta, è chiaro che siamo sulla strada giusta&amp;hellip; &lt;em&gt;SBAGLIATO!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Tuttavia guardando il fatturato passato e l&amp;rsquo;evolvere dello stesso, il punto massimo è il momento in cui siamo più sicuri che tutto funzioni. All&amp;rsquo;inizio, con i primi clienti, avremmo molta paura che qualcosa non funzioni (pricing, modello di business, &amp;hellip;), ma dopo mesi/anni che il fatturato aumenta, è chiaro che siamo sulla strada giusta&amp;hellip; &lt;em&gt;SBAGLIATO!&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Se non abbiamo tenuto conto della retention rischiamo di essere come il tacchino: nel momento di massima fiducia tutto finisce. Perché? Perché abbiamo finito i nuovi clienti disponibili.&lt;/p&gt;
 </description>
